@@ -1,0 +1,14 @@
+# Bundle konfigurasyon ayarlarını yoksay
+/.bundle
+
+# Varsayılan sqlite3 veritabanı dosyalarını yoksay
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Tüm günlük dosyaları ve geçici dosyaları yoksay
+
+/log/*.log
+/tmp
+
+# Sistem yedekleme dosyalarını yoksay
+*~
